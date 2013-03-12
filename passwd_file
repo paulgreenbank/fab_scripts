@@ -1,0 +1,4 @@
+# You weren't expecting a real password were you ;P
+# This file is referenced by the reset_root_* as it gets tiresome
+# typing it over 200 times - It should be a single line text file
+TestPassword123#
